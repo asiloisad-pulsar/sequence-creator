@@ -14,7 +14,7 @@ Fork of [sequential-number](https://github.com/asiloisad/sequential-number).
 
 ## Installation
 
-To install `sequence-creator` search for [sequence-creator](https://web.pulsar-edit.dev/packages/sequence-creator) in the Install pane of the Pulsar settings or run `ppm install sequence-creator`. Alternatively, you can run `ppm install asiloisad/pulsar-sequence-creator` to install a package directly from the GitHub repository.
+To install `sequence-creator` search for [sequence-creator](https://web.pulsar-edit.dev/packages/sequence-creator) in the Install pane of the Pulsar settings or run `ppm install sequence-creator`. Alternatively, you can run `ppm install asiloisad-pulsar/sequence-creator` to install a package directly from the GitHub repository.
 
 ## Commands
 
