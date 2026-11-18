@@ -2,6 +2,9 @@
 
 Generate sequences of numbers or characters across multiple cursors.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [sequence-creator](https://github.com/lumine-code/sequence-creator).
+
 Fork of [sequential-number](https://github.com/asiloisad/sequential-number).
 
 ## Features
